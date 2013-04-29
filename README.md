@@ -1,4 +1,4 @@
 Java-and-Network-Programming
 ============================
 
-A collection of .java programs - Console, Applet and Socket Oriented programs
+A collection of Console, Applet and Socket Oriented programs in Java 
