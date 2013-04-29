@@ -1,7 +1,7 @@
 import java.io.*;
 class ArmstrongNumber
 { 
-    public static void main(String args[]) throws IOException
+          public static void main(String args[]) throws IOException
 	  {
 		    int number, temp, rem, result = 0;
 		    System.out.print("Enter a number: ");
